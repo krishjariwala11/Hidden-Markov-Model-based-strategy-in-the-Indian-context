@@ -1,5 +1,7 @@
 # HMM Market Regime Detection
 
+## 📊 Live Application
+👉 **[Launch the HMM Indian Markets App](https://hmm-indian.streamlit.app/)**
 A production-grade quantitative research framework for detecting market regimes in the Indian stock market using Hidden Markov Models (HMM).
 
 ## Overview
