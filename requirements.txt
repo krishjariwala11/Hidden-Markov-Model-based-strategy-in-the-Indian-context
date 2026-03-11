@@ -8,3 +8,4 @@ plotly
 seaborn
 statsmodels
 streamlit
+altair<5
